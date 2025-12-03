@@ -1,8 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi,+I'm+Dzaky!&fontSize=38&fontColor=ffffff" />
-</p>
-
 ## About Me 👋
 
 Hi! I'm **Dzaky**, Informatics student who focusing on **Data Analytics**, **Artificial Intelligence**, and **Backend Development**.
@@ -16,8 +11,3 @@ Hi! I'm **Dzaky**, Informatics student who focusing on **Data Analytics**, **Art
 ## 🛠️ Tech Stack
 ### **Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
-</p>
