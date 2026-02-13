@@ -6,7 +6,6 @@ Hi! I'm **Dzaky**, Informatics student who focusing on **Data Analytics**, **Art
 - 👯 I’m looking to collaborate on : 
 - 🤔 I’m looking for help with : -->
 - 💬 Ask me about : **C++**, logic, or beginner-level backend & data topics.
-- 😄 Pronouns: He/Him.
 
 ## 🛠️ Tech Stack
 ### **Languages**
